@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/phucthinh2609/static/css/main.5d758569.css",
-    "main.js": "/phucthinh2609/static/js/main.6a26cc4b.js",
-    "static/media/project-1.png": "/phucthinh2609/static/media/project-1.b56c4362e97654b5eecb.png",
-    "static/media/project-3.png": "/phucthinh2609/static/media/project-3.55ef98fe19fb66edd365.png",
-    "static/media/a-khoa.jpeg": "/phucthinh2609/static/media/a-khoa.9b033269b9b4fd584ac8.jpeg",
-    "static/media/project-2.png": "/phucthinh2609/static/media/project-2.4f73bb75fa4a8f7a8c2d.png",
-    "static/media/me.jpeg": "/phucthinh2609/static/media/me.4286cceb8d496759126f.jpeg",
-    "static/media/a-minh.jpeg": "/phucthinh2609/static/media/a-minh.bec493d5402de159458a.jpeg",
-    "static/media/sky.jpg": "/phucthinh2609/static/media/sky.8d33416de8b3ddbeb530.jpg",
-    "static/media/(Eng)MAI-VAN-PHUC-THINH-Java-web-fullstack.pdf": "/phucthinh2609/static/media/(Eng)MAI-VAN-PHUC-THINH-Java-web-fullstack.84699c944ebd4760fc24.pdf",
-    "static/media/a-quang.jpeg": "/phucthinh2609/static/media/a-quang.d2709c6e228f350b8cb0.jpeg",
-    "static/media/me2.jpeg": "/phucthinh2609/static/media/me2.9cc94b10846483024c9f.jpeg",
-    "static/media/a-cu.jpeg": "/phucthinh2609/static/media/a-cu.1567e77886efa028085e.jpeg",
-    "index.html": "/phucthinh2609/index.html",
-    "main.5d758569.css.map": "/phucthinh2609/static/css/main.5d758569.css.map",
-    "main.6a26cc4b.js.map": "/phucthinh2609/static/js/main.6a26cc4b.js.map"
+    "main.css": "/static/css/main.23bdaa47.css",
+    "main.js": "/static/js/main.2ac45438.js",
+    "static/media/project-1.png": "/static/media/project-1.b56c4362e97654b5eecb.png",
+    "static/media/project-3.png": "/static/media/project-3.55ef98fe19fb66edd365.png",
+    "static/media/a-khoa.jpeg": "/static/media/a-khoa.9b033269b9b4fd584ac8.jpeg",
+    "static/media/project-2.png": "/static/media/project-2.4f73bb75fa4a8f7a8c2d.png",
+    "static/media/me.jpeg": "/static/media/me.4286cceb8d496759126f.jpeg",
+    "static/media/a-minh.jpeg": "/static/media/a-minh.bec493d5402de159458a.jpeg",
+    "static/media/sky.jpg": "/static/media/sky.8d33416de8b3ddbeb530.jpg",
+    "static/media/(Eng)MAI-VAN-PHUC-THINH-Java-web-fullstack.pdf": "/static/media/(Eng)MAI-VAN-PHUC-THINH-Java-web-fullstack.84699c944ebd4760fc24.pdf",
+    "static/media/a-quang.jpeg": "/static/media/a-quang.d2709c6e228f350b8cb0.jpeg",
+    "static/media/me2.jpeg": "/static/media/me2.9cc94b10846483024c9f.jpeg",
+    "static/media/a-cu.jpeg": "/static/media/a-cu.1567e77886efa028085e.jpeg",
+    "index.html": "/index.html",
+    "main.23bdaa47.css.map": "/static/css/main.23bdaa47.css.map",
+    "main.2ac45438.js.map": "/static/js/main.2ac45438.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d758569.css",
-    "static/js/main.6a26cc4b.js"
+    "static/css/main.23bdaa47.css",
+    "static/js/main.2ac45438.js"
   ]
 }
